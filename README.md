@@ -1,5 +1,7 @@
 # churn-decisions
 
+[![ci](https://github.com/berkaykoklu/churn-decisions/actions/workflows/ci.yml/badge.svg)](https://github.com/berkaykoklu/churn-decisions/actions/workflows/ci.yml)
+
 **[Live site →](https://churn-decisions.berkaykoklu.com)**
 
 A churn model outputs a probability per customer. Acting on it needs a
