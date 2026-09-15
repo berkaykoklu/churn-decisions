@@ -1,6 +1,6 @@
 # churn-decisions
 
-**[Live site →](https://churn-decisions.vercel.app)**
+**[Live site →](https://churn-decisions.berkaykoklu.com)**
 
 A churn model outputs a probability per customer. Acting on it needs a
 threshold, and 0.5 is a convention with nothing behind it.

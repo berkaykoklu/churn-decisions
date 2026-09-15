@@ -6,7 +6,7 @@ const DESCRIPTION =
   "A churn model outputs a probability. Acting on it needs a threshold, and 0.5 is a convention with nothing behind it. This derives the threshold from what a retention offer costs and saves — and shows why the probabilities have to mean what they say first.";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://churn-decisions.vercel.app"),
+  metadataBase: new URL("https://churn-decisions.berkaykoklu.com"),
   title: "From churn probability to a decision",
   description: DESCRIPTION,
   openGraph: { title: "From churn probability to a decision", description: DESCRIPTION, type: "website", locale: "en" },
